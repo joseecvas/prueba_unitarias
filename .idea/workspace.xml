@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561063a2-7378-4c9d-bb45-d310103a949e" name="Changes" comment="COMMIT test connect4 &amp; ship">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/LocationSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/LocationSpec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/connect4/Connect4TDDSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/connect4/Connect4TDDSpec.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +120,7 @@
     "TestNG.ShipSpec.whenTurnLeftThenLeft.executor": "Run",
     "TestNG.ShipSpec.whenTurnRightThenRight.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "TestConnect4",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/usuario/IdeaProjects/tests",
     "node.js.detected.package.eslint": "true",
@@ -418,7 +417,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/LocationSpec.java</url>
           <line>30</line>
-          <properties class="org.iesvdm.tddjava.ship.LocationSpec" method="whenInstantiatedThenYIsStored">
+          <properties class="org.iesvdm.tddjava.ship.LocationSpec">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -427,7 +426,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/LocationSpec.java</url>
           <line>123</line>
-          <properties class="org.iesvdm.tddjava.ship.LocationSpec" method="givenDifferentXWhenEqualsThenFalse">
+          <properties class="org.iesvdm.tddjava.ship.LocationSpec">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -436,7 +435,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/LocationSpec.java</url>
           <line>138</line>
-          <properties class="org.iesvdm.tddjava.ship.LocationSpec" method="givenSameXYDirectionWhenEqualsThenTrue">
+          <properties class="org.iesvdm.tddjava.ship.LocationSpec">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

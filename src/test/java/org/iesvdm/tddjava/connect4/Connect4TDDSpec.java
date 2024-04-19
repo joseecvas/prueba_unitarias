@@ -19,7 +19,7 @@ public class Connect4TDDSpec {
     private OutputStream output;
 
     @BeforeEach
-    public void beforeEachTest() {
+    public void beforeEachTesst() {
         output = new ByteArrayOutputStream();
 
         //Se instancia el juego modificado para acceder a la salida de consola
